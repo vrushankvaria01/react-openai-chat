@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "openai": "^4.83.0",
+    "react-router-dom": "^7.1.5",
+    "typewriter-effect": "^2.21.0"
+  }
+}
